@@ -197,8 +197,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📧 Contact
 
-Hossein Mosaffa - [<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/35568946-4ebc-44b7-a130-2ef228de611f" />
-](https://www.linkedin.com/in/hossein-mosaffa-087975163)
+Hossein Mosaffa - [LİNKEDİN](https://www.linkedin.com/in/hossein-mosaffa-087975163)
 
 Project Link: [https://github.com/Hosseinm2018/pomodoro-timer](https://github.com/Hosseinm2018/pomodoro-timer)
 
