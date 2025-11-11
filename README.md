@@ -63,6 +63,11 @@ python enhanced_pomodoro.py
 python modern_pomodoro.py
 ```
 
+### Screenshots
+![Basic Version](screenshots/basic.png)
+![Enhanced Version](screenshots/enhanced1.png)
+![Modern Version](screenshots/ttkbootstrap1.png)
+
 ## 📖 Code Explanations
 
 ### Basic Pomodoro (`basic_pomodoro.py`)
